@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c6d107-b2bc-46b5-be94-6d862e5c9866" name="Changes" comment="Exclui gitignores">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Especificacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/Specifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/ComponentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/ComponentDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/RegisterDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/RegisterDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Componente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Componente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Cpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Disco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Disco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Memoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Memoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Rede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Rede.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/register/Registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/register/Registro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/ComponentTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ComponentTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dao/ComponentDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/ComponentDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Componente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Componente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Cpu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Cpu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Disco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Disco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Memoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Memoria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Rede.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Rede.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/ComponentTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/ComponentTypes.class" afterDir="false" />
-    </list>
+    <list default="true" id="17c6d107-b2bc-46b5-be94-6d862e5c9866" name="Changes" comment="Exclui gitignores" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,6 +35,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.ju.App.executor": "Run",
     "Maven.login-totemtech [clean].executor": "Run",
     "Maven.login-totemtech [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -66,11 +44,36 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gabri/intellijProjects/sptech-segundo-semestre/TotemTech/client/login-totemtech-client",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Users/jucca/OneDrive/Desktop/testingFolder/julia/login-totemtech-client",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="token-alertas" value="https://hooks.slack.com/services/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" />
+        <env name="token-criticos" value="https://hooks.slack.com/services/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" />
+        <env name="token-interrupcoes" value="https://hooks.slack.com/services/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" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="login-totemtech" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ju.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ju.App" />
+      <module name="login-totemtech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ju.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="login-totemtech-client" />
       <method v="2">
@@ -84,6 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.ju.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ju.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
